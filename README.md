@@ -34,11 +34,11 @@ Màn hình đăng nhập
 
 Màn sau khi đăng nhập
 
-<img width="1905" height="869" alt="image" src="https://github.com/user-attachments/assets/6e0344ce-90ca-46b6-89e5-d3a10ce38ac4" />
+<img width="1920" height="1196" alt="image" src="https://github.com/user-attachments/assets/06538a19-6343-42de-a8d3-c242c7f4dbf1" />
 
 Trang chính (chưa làm xong )
 
-<img width="1905" height="869" alt="image" src="https://github.com/user-attachments/assets/3add0d10-43de-47c3-a2cc-bdc10f4d3e31" />
+<img width="1920" height="868" alt="image" src="https://github.com/user-attachments/assets/541e031c-8143-44f5-bafe-e5b6a4bebc8d" />
 
 Data
 
